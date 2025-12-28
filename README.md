@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Prathamesh Walunj
 
-<!--
-**Pratw-05/Pratw-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+📊 Aspiring Data Analyst  
+🧠 Interested in Data Science & Business Analytics  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- SQL
+- Python
+- Power BI
+- Data Visualization
+- Data Cleaning & Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📌 Featured Projects
+- 🚗 Automobile Sales Analytics
+- 📈 Customer Trends Analysis (SQL + Python + Power BI)
+- 🛒 E-commerce Sales Database
+- 🎵 Music Store SQL Analysis
+- 🎬 Netflix Movies & Series Analysis
+
+## 🔗 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/prathamesh-walunj-7ba93a27b/
+
 -->
